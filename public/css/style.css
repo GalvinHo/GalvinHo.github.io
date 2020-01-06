@@ -23,5 +23,20 @@ table {
       cursor: pointer;
   }
 
-  
-      
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 30px;
+  font-family: "Georgia", Times, serif;
+  font-size: 30px
+}
+
+.info {
+	float: left;
+	font-size: 30px;
+}
+
+li{
+  margin: 10px 0;
+}
+
